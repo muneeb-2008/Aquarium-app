@@ -1,0 +1,5 @@
+# Netlify Redirects for Zen Aquarium SPA
+# Place this file in your /public folder
+
+# Handle client-side routing - all paths serve index.html
+/*    /index.html   200
